@@ -1,4 +1,4 @@
-# Submission Last Project - Dicoding "Analisis Data dengan Python"✨
+# "Analisis Data dengan Python"✨
 
 ## Muhammad Fathir Ikhsan
 
