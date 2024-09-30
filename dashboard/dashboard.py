@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_csv("hour.csv")
+data = pd.read_csv("./dashboard/hour.csv")
 
 season_labels = {1: 'Spring', 2: 'Summer', 3: 'Fall', 4: 'Winter'}
 data['season'] = data['season'].map(season_labels)
